@@ -1,0 +1,3 @@
+re-dfa为控制台输出nfa dfa 最简dfa版本 直接运行输入正则表达式即可 没有做正则是否正确的判断
+retodfa为使用graphviz输出图形化dfa 最简dfa版本 需配置graphviz
+python版本均为3.7
